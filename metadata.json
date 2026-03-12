@@ -1,0 +1,7 @@
+{
+  "name": "EcoTrack – Smart Waste Awareness Platform",
+  "description": "Platform edukasi digital untuk meningkatkan kesadaran masyarakat terhadap pengelolaan sampah dan dampaknya terhadap lingkungan.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
