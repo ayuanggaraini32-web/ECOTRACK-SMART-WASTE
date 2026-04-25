@@ -266,7 +266,7 @@ const ContentPage = () => {
       treatment: 'Pengomposan, pakan ternak, Eco-Enzyme.',
       color: 'bg-green-100 text-green-700 border-green-200',
       icon: <Leaf />,
-      img: 'image/sampah-organik.jpg'
+      img: '/image/sampah-organik.jpg'
     },
     {
       title: 'Sampah Anorganik',
@@ -275,7 +275,7 @@ const ContentPage = () => {
       treatment: 'Daur ulang (Recycle), kerajinan tangan, Bank Sampah.',
       color: 'bg-blue-100 text-blue-700 border-blue-200',
       icon: <Recycle />,
-      img: 'image/sampah-anorganik.webp'
+      img: '/image/sampah-anorganik.webp'
     },
     {
       title: 'Sampah B3',
@@ -284,7 +284,7 @@ const ContentPage = () => {
       treatment: 'Diserahkan ke pihak pengelola limbah berlisensi.',
       color: 'bg-red-100 text-red-700 border-red-200',
       icon: <Trash2 />,
-      img: 'image/sampah-b3.webp'
+      img: '/image/sampah-b3.webp'
     }
   ];
 
